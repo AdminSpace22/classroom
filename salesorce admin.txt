@@ -1,0 +1,54 @@
+Topics to be covered for salesforce admin (Beginner to intermediate)
+
+1. What is salesforce and CRM Basics?----------------------(Sneha P)
+----company profiles
+----user licence
+2. Force.com & Salesforce Environments----------------------------(Sneha P)
+-------sandbox org
+-------developer edition org
+-------main org
+3.MVC Architecture----------------------------------------------------- (Sneha K)
+4.Objects and Fields in salesorce----------------------------------------- (Sneha K)
+-------what is object,tab,profiles and users(overview about each term)(with some real world example)
+-------what are objects and fields in salesorce
+-------difference between standard and custom object
+-------how to create a custom app in salesforce
+5.page layouts in salesforce------------------------------------------------(sneha K)
+----mini page layouts
+----Global Actions and Publisher layouts
+----search layouts
+6.Record Types in salesforce---------------------------------(sneha k)
+7.validation rules in salesforce---------------------------------------------(Ajit)
+8.Formula Fields in salesforce------------------------------------------------(Ajit)
+9.Differenet types of relationship in salesforce--------------------------------(Sneha K)
+10.Data Loader and Data Import Wizard-------------------------------------------(Ajit)
+------record id
+------external id
+11.Sharing settings--------------------------------------------------------------(Sneha P)
+------types of data access, organization level, object level, field level
+------what are profiles in salesorce how it control the access
+------tab visibility
+------object level security, field level security
+------login hours,login ip ranges
+------permission sets
+12.Data Security in salesforce-------------------------------------------------------(Sneha P)
+------OWD
+------RECORD LEVEL 
+------role hierarchy
+------grant access using hirerarchies
+------sharing rules
+------read/write permissions
+------public group
+-----some other permission sets
+13.recycle bin--------------------------------------------------------------------------(Ajit)
+14.Automation tools
+----workflow rules
+----approval process
+-----process builder( definitation ) 
+------Flows
+15.Reports and Dashboards--------------------------------------------------------------(Ajit)
+16.Salesforce Chatter -----------------------------------------------------------------(sneha p)
+17.Salesforce auditing and monitoring tools--------------------------------------------(sneha p)
+-----tracking field history for standard objects
+-----tracking field history for custom objects
+-----view setup audit trail in salesforce
